@@ -64,6 +64,11 @@
   text-decoration: none;
 }
 
+.header__link:hover {
+  font-size: 25px;
+  color: red;
+}
+
 .header__main-illustration {
   width: 765px;
   height: 608px;
@@ -242,6 +247,11 @@
   bottom: 50%;
   text-decoration: none;
   color: #2f80ed;
+}
+
+.feynman__link:hover {
+  font-size: 40px;
+  color: red;
 }
 
 .kaufman {
