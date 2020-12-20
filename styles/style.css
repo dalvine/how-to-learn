@@ -21,7 +21,6 @@
 }
 
 .logo {
-  position: absolute;
   width: 183px;
 }
 
@@ -30,6 +29,7 @@
   top: 30px;
   left: 64px;
   height: 32px;
+  position: absolute;
 }
 
 .logo_place_footer {
@@ -138,12 +138,12 @@
 }
 
 .two-columns__span-accent {
-  font-weight: 600;
+  font-weight: bold;
 }
 
 .digits {
   margin: auto;
-  padding-top: 100px;
+  padding: 100px 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -154,7 +154,7 @@
   margin: 0;
   line-height: 1.15;
   font-size: 60px;
-  font-weight: 600;
+  font-weight: bold;
 }
 
 .section-subtitle {
@@ -184,7 +184,7 @@
  margin: auto;
  line-height: 34px;
  font-size: 24px;
- font-weight: 600;
+ font-weight: bold;
 }
 
 .table__text {
@@ -227,7 +227,7 @@
   width: 648px;
   line-height: 1.15;
   font-size: 120px;
-  font-weight: 600;
+  font-weight: bold;
   text-align: center;
 }
 
@@ -244,7 +244,7 @@
   font-weight: normal;
   position: absolute;
   right: 48px;
-  bottom: 50%;
+  top: 50%;
   text-decoration: none;
   color: #2f80ed;
 }
@@ -299,14 +299,15 @@
 }
 
 .footer__column-heading {
+  margin: 0;
   line-height: 30px;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: bold;
 }
 
 .footer__column-links {
-  margin: auto;
-  padding: 0;
+  padding: 20px 0 16px;
+  margin: 0;
   list-style-type: none;
   line-height: 30px;
   font-size: 18px;
