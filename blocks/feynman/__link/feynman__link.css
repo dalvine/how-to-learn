@@ -9,6 +9,7 @@
   top: 50%;
 }
 .feynman__link:hover {
-animation: half-opacity 2s forwards;
+-webkit-animation: half-opacity 2s forwards;
+        animation: half-opacity 2s forwards;
 color: red;
 }
