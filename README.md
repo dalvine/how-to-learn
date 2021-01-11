@@ -54,4 +54,4 @@
 ---
 **Контакты для связи:**
 
-Telegram - @greshnik
+Telegram - [@mrgreshnik][https://teleg.run/mrgreshnik]
