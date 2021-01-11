@@ -1,0 +1,4 @@
+.resources__link:hover {
+    -webkit-animation: half-opacity 2s forwards;
+            animation: half-opacity 2s forwards;
+}
