@@ -2,3 +2,8 @@
   color: #2f80ed;
   text-decoration: none;
 }
+
+.header__link:hover {
+  animation: half-opacity 2s forwards;
+  color: red;
+  }

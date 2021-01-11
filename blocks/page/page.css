@@ -11,14 +11,3 @@
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-
-a {
-  text-decoration: none;
-  color: #2f80ed;
-}
-
-a:hover {
-  opacity: 0.6;
-  transition: opacity 3s;
-  color: red;
-}

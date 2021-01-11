@@ -3,3 +3,8 @@
   text-decoration: none;
   color: white;
 }
+
+.footer__column-link:hover {
+  animation: half-opacity 2s forwards;
+  color: gray;
+  }
